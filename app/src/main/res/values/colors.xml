@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#690569</color>
+    <color name="colorPrimaryDark">#BABABA</color>
+    <color name="colorAccent">#690569</color>
+    <color name="inactiveAddButtonColor">#690569</color>
+    <color name="infoPageBackgroundColor">#690569</color>
+    <color name="actionBarArrowColor">#690569</color>
+    <color name="animatedStickerIndicator">#66000000</color>
+</resources>
